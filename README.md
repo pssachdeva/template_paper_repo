@@ -6,7 +6,7 @@ To install, you can clone the repository and `cd` into the `template_paper_repo`
 
 ```bash
 # use ssh
-$ git clone git@github.com:BouchardLab/DynamicalComponentsAnalysis.git
+$ git clone git@github.com:BouchardLab/template_paper_repo.git
 # or use https
 $ git clone https://github.com/BouchardLab/template_paper_repo.git
 $ cd template_paper_repo
