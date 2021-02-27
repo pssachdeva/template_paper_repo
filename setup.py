@@ -17,6 +17,6 @@ here = path.abspath(path.dirname(__file__))
 with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
-setup(name='paper_repo',
+setup(name='codebase',
       description='Template paper repository.',
       long_description=long_description)
