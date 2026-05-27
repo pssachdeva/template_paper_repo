@@ -1,8 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,visualstudiocode,python,jupyternotebooks,images
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,visualstudiocode,python,jupyternotebooks,images
 
+# Custom for this repo
 data/*
-batch_data/*
+!data/.gitkeep
+artifacts/*
+!artifacts/.gitkeep
 
 # Data files
 *.pkl

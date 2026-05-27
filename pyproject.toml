@@ -3,7 +3,8 @@ name = "package_name"
 version = "0.0.1"
 description = "Description of package"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
+dependencies = []
 
 [build-system]
 requires = ["setuptools>=61.0"]
@@ -20,5 +21,5 @@ package = true
 
 [tool.ruff]
 line-length = 88
-target-version = "py310"
+target-version = "py312"
 
